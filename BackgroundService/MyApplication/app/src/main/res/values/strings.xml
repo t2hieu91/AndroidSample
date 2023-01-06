@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="id_button_start">Start</string>
+    <string name="id_button_stop">Stop</string>
+    <string name="act_base_services_toast_channel">Service Channel</string>
+    <string name="act_base_services_toast_service">Service</string>
+    <string name="act_base_services_toast_service_running">Service Running… </string>
+
+</resources>
